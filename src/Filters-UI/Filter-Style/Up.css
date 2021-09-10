@@ -1,0 +1,25 @@
+.up_rotate {
+    transform: rotate(180deg);
+  }
+ 
+ .upside{
+  display: flex;
+  align-items: center;
+  
+   
+ }
+ .right_buttons {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  display: flex;
+  flex-direction: column;
+  
+    
+}
+
+button{
+    font-size: x-large;
+}

@@ -1,0 +1,14 @@
+
+.box{
+
+    height: 500px;
+    width: 500px;
+
+}
+.photo{
+    position: relative;
+    z-index: 1;
+    height: 380px;
+    width: 450px;
+    margin-bottom: 110px;
+}
